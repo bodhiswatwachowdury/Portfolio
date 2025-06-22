@@ -2,7 +2,7 @@
 
 🌐 **Live Website**: https://bodhiswatwa.netlify.app
 
-This is my personal portfolio website, built using the **Bolt.new** no-code platform and hosted on **Netlify**. The site presents my work in software development, focusing on AI-powered applications, backend systems, and creative achievements. It’s fully responsive, accessible, and optimized for performance and SEO.
+This is my personal portfolio website, built using the **Bolt.new** no-code platform and hosted on **Netlify**. The site presents my work in software development, focusing on AI-powered applications, backend systems, and creative achievements. It’s fully responsive, accessible, and optimized for performance.
 
 ## 🛠 Built With
 
